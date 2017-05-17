@@ -1,0 +1,22 @@
+{
+  "name": "coding_lab1",
+  "version": "1.0.0",
+  "description": "Repository for day 2 tasks",
+  "main": "./app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dannytebj/abv-bc-session2.git"
+  },
+  "author": "Daniel Atebije",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dannytebj/abv-bc-session2/issues"
+  },
+  "homepage": "https://github.com/Dannytebj/abv-bc-session2#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
